@@ -10,7 +10,6 @@ La edicion 2026 se celebro los dias 5 y 6 de junio.
 
 - Sitio oficial: https://commit-conf.com
 - Agenda 2026: https://koliseo.com/commit/2026/agenda
-- Entradas 2026: https://koliseo.com/commit/2026/tickets
 
 ## Contenido del repositorio
 
